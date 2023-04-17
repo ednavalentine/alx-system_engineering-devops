@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -ne "\x0\x01\xF6\x15"
+echo -e '\U0001F615'
