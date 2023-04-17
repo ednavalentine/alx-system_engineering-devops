@@ -1,0 +1,2 @@
+#!/bin/bash
+echo -ne "\x0\x01\xF6\x15"
